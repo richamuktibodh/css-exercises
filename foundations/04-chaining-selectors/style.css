@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+
+/* .avatar.distorted applies to elements with classes avatar and distorted. .avatar, .distorted applies to classes with avatar or distorted */
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted{
+    height: 400px;
+    width: 200px;
+}

@@ -1,0 +1,20 @@
+/* all things that start with dots are classes */
+/* a class can be applied to multiple elements */
+.odd{
+    background-color: rgb(255, 168, 168);
+    font-family: Verdana,sans-serif, "DejaVu Sans";
+}
+.change-font-size{
+    font-size: 24px;
+}
+
+/* ids are unique to a single element */
+#two {
+    color: #0000ff;
+    font-size: 36px;
+  }
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
